@@ -1,6 +1,6 @@
 # Focus Buddy
 
-Focus Buddy is a Flutter productivity app created for the **Congressional App Challenge 2023**.
+Focus Buddy is a productivity app focused on users with ADHD.
 
 ## Features
 
@@ -34,7 +34,3 @@ flutter run
 ## Project Structure
 
 The main Flutter application is located in the `congressional_app/` directory.
-
-## License
-
-This project was created for the Congressional App Challenge 2023.
